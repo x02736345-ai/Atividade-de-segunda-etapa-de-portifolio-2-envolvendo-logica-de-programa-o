@@ -6,3 +6,6 @@ O que é branch?
 estragar o trabalho pelas alterações. Falando de outra forma, é possível visualizar esse espaço como um papel de 
 rascunho que permitir você escrever todas as suas ideias e pegar as partes mais adequadas para colocar dentro 
 no trabalho.
+
+Para que ele serve?
+  

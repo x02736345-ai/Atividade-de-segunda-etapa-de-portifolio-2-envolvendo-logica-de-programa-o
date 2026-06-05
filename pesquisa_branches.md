@@ -25,3 +25,10 @@ surgiu a ideia de acrescentar uma informação adicional sobre a quantidade de h
 uma atividade específica. Porém, não sabemos se todos os integrantes da equipe irão aprovar essa mudança. Por isso, 
 criamos um branch separado, utilizando o código principal como base e realizando as modificações necessárias para 
 adicionar esse novo recurso. Dessa forma, podemos apresentar nossa ideia a equipa para ver sua avaliação.
+
+3 - Há três pessoas trabalhando em um novo site, cada uma com ideias diferentes. João quer adicionar um menu de lanches
+que possa ser selecionado em diferentes quantidades; Maria quer incluir um temporizador que informe o tempo de espera de 
+um pedido; e Ana quer criar uma página que mostre o progresso do pedido até a entrega. Ao utilizar branches, os três 
+podem desenvolver suas ideias e realizar suas modificações sem alterar o projeto principal. Dessa forma, conseguem 
+trabalhar de maneira organizada, testar suas funcionalidades separadamente e continuar o desenvolvimento do site de 
+forma mais prática e eficiente.

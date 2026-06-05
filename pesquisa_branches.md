@@ -8,4 +8,9 @@ rascunho que permitir você escrever todas as suas ideias e pegar as partes mais
 no trabalho.
 
 Para que ele serve?
-  
+
+   O branch é essencial para a nossa organização dos trabalhos que nós realizaremos durante na utilização de Github.
+Ele é uma ferramenta que permite ajudar nós aplicar todas as ideias necessárias e testar se acontecerá algum erro no 
+momento que iremos colocar no nosso trabalho. Ele permite uma organização dos nossos pensamentos e dirigir a gente para 
+o caminho certo. Isso tornar os nossos trabalhos serem mais produtivos e bem feitos.
+

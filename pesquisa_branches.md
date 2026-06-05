@@ -14,3 +14,14 @@ Ele é uma ferramenta que permite ajudar nós aplicar todas as ideias necessári
 momento que iremos colocar no nosso trabalho. Ele permite uma organização dos nossos pensamentos e dirigir a gente para 
 o caminho certo. Isso tornar os nossos trabalhos serem mais produtivos e bem feitos.
 
+Aplicações práticas:
+
+1 - Ocorreu um erro quando o usuário tentou realizar uma compra no site. Então, utilizamos um branch para alterar essa 
+parte do código de forma independente, sem modificar o algoritmo principal. Após organizar as ideias e corrigir o bug,
+podemos atualizar o código principal utilizando a branch separada, que agora está funcionando corretamente.
+
+2 -  Está sendo desenvolvido um novo aplicativo para análise de atividades físicas. Durante a construção do projeto,
+surgiu a ideia de acrescentar uma informação adicional sobre a quantidade de horas que uma pessoa gasta para realizar 
+uma atividade específica. Porém, não sabemos se todos os integrantes da equipe irão aprovar essa mudança. Por isso, 
+criamos um branch separado, utilizando o código principal como base e realizando as modificações necessárias para 
+adicionar esse novo recurso. Dessa forma, podemos apresentar nossa ideia a equipa para ver sua avaliação.
